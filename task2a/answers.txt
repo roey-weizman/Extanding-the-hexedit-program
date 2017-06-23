@@ -1,0 +1,2 @@
+2. _start
+3.The symbol _start is the entry point of your program. That is, the address of that symbol is the address jumped to on program start. 0x804808a

@@ -1,0 +1,7 @@
+1.0x80482e0 , readelf a.out --file-header
+2.30 , readelf a.out -S
+3. 0001b8-440 ,as 1
+4.080482e0 ,readelf a.out -s
+5.08048388 ,readelf a.out -s
+6.0x80482e0
+

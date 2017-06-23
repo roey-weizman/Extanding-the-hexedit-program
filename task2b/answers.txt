@@ -1,0 +1,2 @@
+1.location-ox168 -searched in hexedit
+2.length- size of address- 4 bytes
